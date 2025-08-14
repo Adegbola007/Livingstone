@@ -2,13 +2,13 @@
 
 ---
 
-## 👋 About Me  
+## 👋 ABOUT ME  
 Hi there! I’m **Taiwo Adegbola** — a data analyst passionate about using data to drive smarter decisions and create real impact.  
 With growing expertise in **SQL, Python, and data visualization**, I enjoy transforming raw datasets into clear, actionable insights that help organizations solve problems, optimize operations, and achieve their goals.
 
 ---
 
-## 💼 What I Do
+## 💼 WHAT I DO
 
 ### ✅ Data Analytics & Insights
 I analyze data to uncover patterns, trends, and actionable recommendations for:
@@ -21,27 +21,21 @@ I create clear, interactive dashboards and reports to communicate insights effec
 
 ---
 
-## 📂 My Portfolio  
+## 📂 MY PORTFOLIO  
 *A snapshot of projects I’ve worked on and learning exercises I’ve completed:*
 
 ---
 
 ## 🏢 HR Attrition Dashboard
 
-![HR Attrition Dashboard](Attrition_dashboard.png)
+![HR Attrition Dashboard](Attrition dashboard.png)
 
 **Overview:**  
 An interactive dashboard providing insights into employee attrition trends across **age groups, performance ratings, salary ranges, satisfaction levels, and job roles** — helping HR teams identify high-turnover areas and take proactive measures.
 
-**Features:**
-- Overall attrition rate: **30%**
-- Breakdown by age, gender, department, job role
-- Salary vs. attrition relationship
-- Satisfaction and performance correlations
 
 **Tools Used:**  
 - Microsoft Excel (Pivot Tables, Charts)  
-- Power BI for interactive visualizations
 
 **Key Insights:**
 - Female employees have a higher attrition rate due to salary disparities  
@@ -52,7 +46,7 @@ An interactive dashboard providing insights into employee attrition trends acros
 
 ## 🩺 Cancer Review Dashboard (2025)
 
-![Cancer Review Dashboard](cancer_dashboard.png)
+![Cancer Review Dashboard](cancer dashboard.png)
 
 **Description:**  
 An interactive dashboard designed to monitor and analyze cancer patient data, including tumor stages, patient demographics, and treatment outcomes.
@@ -68,7 +62,7 @@ An interactive dashboard designed to monitor and analyze cancer patient data, in
 
 ## 📈 Sales Variance Analysis Dashboard (2024)
 
-![Sales Variance Dashboard](variance_analysis.png)
+![Sales Variance Dashboard](variance analysis.png)
 
 **Description:**  
 A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time business performance monitoring.
@@ -78,13 +72,12 @@ A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time b
 - Monthly performance trends  
 - Interactive filtering by month and salesperson  
 - KPI indicators for over/under-performance  
-- Professional **dark blue theme** for clarity  
 
 **Technologies:** Power BI, DAX, Data Modelling, Excel & SQL  
 
 **Insights Generated:**
-- Identifies top-performing salespeople and their monthly trends  
-- Highlights underperformance and missed targets per month  
+- Identifies top-performing salespeople and their monthly performance
+- Highlights salespersons who exceeded/missed sales targets and their respective months
 - Supports management in making **data-driven** decisions
 
 ---
@@ -97,18 +90,15 @@ A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time b
 An interactive dashboard visualizing customer demographics and purchase behavior in the bike industry.
 
 **Key Insights:**
-- **Purchase Rate:** Female (50.3%) slightly higher than Male (47.8%)  
-- **Car Ownership Impact:** Purchases almost evenly split — 50.2% (own car) vs. 49.8% (no car)  
-- **Wealth Segments:** Mass customers lead purchases (99,457)  
-- **Top Customer Ranks:** Gold and Silver members dominate  
-- **Age Group with Highest Purchases:** 43–52 years (35.6%)  
-- Industry leaders: **Manufacturing**, **Financial Services**, **Health**  
+- **Purchase Rate:** Female (50.3%) slightly higher than Male (47.8%)
+- **Car Ownership Impact:** Purchases are almost evenly split — 50.2% (own car) vs. 49.8% (no car)
+-And other actionable insights for targeted marketing 
 
 **Tools:** SQL & Tableau  
 
 ---
 
-## 📬 Connect with Me
+## 📬 CONNECT WITH ME
 - **GitHub:** [taiwo-analytics](https://github.com/taiwo-analytics)  
 - **LinkedIn:** [Taiwo Adegbola](https://www.linkedin.com/in/taiwo-adegbola-b838b5a7)  
 - **Twitter:** [@livingstone0007](https://x.com/livingstone0007)  
